@@ -1,6 +1,6 @@
 # bluetooth-keepalive
 
-Small script to prevent bluetooth audio devices from shutting down when idle, my speaker's timeout is below 5 minutes and I always have to get up and switch it back on. Should work on debian and derivatives, haven't tested it on anything else.
+Small script to prevent bluetooth audio devices from shutting down when idle, my speaker's timeout is below 5 minutes (looking at you, Teufel, sry) and I always have to get up and switch it back on. Should work on debian and derivatives, haven't tested it on anything else.
 
 ## Basic Usage
 
